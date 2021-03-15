@@ -1,0 +1,7 @@
+blocks run time:
+stabilization takes 2.6197893897692364 minutes
+background substraction takes 5.230996521313985 minutes
+Matting takes 6.99458988904953 minutes
+Tracking takes 0.46477475166320803 minutes
+
+total algorithm time is 15.31015055179596 minutes
